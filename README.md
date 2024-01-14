@@ -1,4 +1,4 @@
-# sayi_tahmin_uygulamasi
+# Number Guessing App
 
 A new Flutter project.
 
